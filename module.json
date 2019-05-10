@@ -1,9 +1,9 @@
 {
   "name": "other-testing-dummy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Other Testing Dummy",
   "author": "autopulated",
-  "homepage": "https://github.com/monty-bot/other-testing-dummy",
+  "homepage": "https://github.com/yottatest/other-testing-dummy",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
